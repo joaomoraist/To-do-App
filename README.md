@@ -1,38 +1,38 @@
 # To-do App
 
-This is a simple project created by me, and others contributors  - whom I will give their social media in the following sections. It was a semestral work required by **UniFECAF** university and the main goal is to help other people to organize their tasks with a nice app
+Este é um projeto simples criado por mim e outros colaboradores, cujos dados de mídia social compartilharei nas próximas seções. Foi um trabalho semestral exigido pela universidade **UniFECAF** e o objetivo principal é ajudar outras pessoas a organizar suas tarefas com um aplicativo bacana.
 
 ![Pasted image 20250420005731](https://github.com/user-attachments/assets/0410e1e7-c780-41bf-9df0-7e6c271cff00)
 
 <hr>
 
-## Project Goals
+## Objetivos do Projeto
 
-- **Add a new task**: Make a new task
-- **Delete your desired task**: Delete a task
-- **Edit a task**: Be able to alter your file
-- **Filter/Organize your tasks**: Show your tasks filtered by folder, search or other
-- **Friendly interface**: A nice and guide user's interface
+- **Adicionar uma nova tarefa**: Criar uma nova tarefa
+- **Excluir a tarefa desejada**: Excluir uma tarefa
+- **Editar uma tarefa**: Poder alterar seu arquivo
+- **Filtrar/Organizar suas tarefas**: Exibir suas tarefas filtradas por pasta, busca ou outros
+- **Interface amigável**: Uma interface de usuário agradável e intuitiva
 
-## University Goals
+## Objetivos da Universidade
 
-- [x] **Data management**
+- [x] **Gerenciamento de dados**
 
-- [x] **Flowchart**
+- [x] **Fluxograma**
 
 - [x] **Interface para o usuário**
 
-- [x] **Data Validation**
+- [x] **Validação de Dados**
 
-- [x] **Programming Language**
+- [x] **Linguagem de Programação**
 
-- [x] **Front and Back end integration**
+- [x] **Integração Front-end e Back-end**
 
-- [x] **User authentication**
+- [x] **Autenticação de usuário**
 
-- [x] Database connection
+- [x] Conexão com o banco de dados
 
-- [x] User Profiles
+- [x] Perfis de Usuário
 
 #### Fulling all of theses requirements give us a total of 3 points in ours Semester grade
 
